@@ -1,5 +1,8 @@
-# Hello, world!
+# Our new startup
 
-26.05.2024
+We're so cool that we've already worked with the following companies:
 
-## New title
+1. LLC “Horns and hooves”
+2. Clean Sheet Publishing
+3. Kzvezdny Kzvezdny Spaceport.
+4. Too Famous Character Design Studio
